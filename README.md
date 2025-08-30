@@ -32,6 +32,6 @@ src/
 - StepInput.js # Step input component
 
 
-Live Demo : view here --> ()
+Live Demo : view here --> (https://d00055a.github.io/Counter-app/)
 
 License © 2025 Daniel Dedja. All rights reserved.
