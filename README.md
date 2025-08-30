@@ -26,10 +26,10 @@ Technologies used:
 Project structure:
 
 src/
-├── App.js # Main component
-├── App.css # Styles
-├── CounterDisplay.js # Counter display component
-└── StepInput.js # Step input component
+- App.js # Main component
+- App.css # Styles
+- CounterDisplay.js # Counter display component
+- StepInput.js # Step input component
 
 
 Live Demo : view here --> ()
