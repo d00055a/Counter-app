@@ -1,6 +1,6 @@
 # React Counter App
 
-This is a simple *React Counter App* built with frontend framework React.
+This is a simple *Counter App* built with frontend framework React.
 The app demonstrates the basics of React including **components, props, state management, and event handling**.
 
 Features:
