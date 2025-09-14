@@ -98,3 +98,21 @@
   border-top: 1px solid #d1d5db;
 }
 
+
+@media (max-width: 600px) {
+  
+  .content {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 18.76vh;
+    padding: 1.75rem;
+  }
+
+  .app-footer {
+    margin-top: 8rem;
+    font-size: 14px;
+  }
+}
+
+
+
