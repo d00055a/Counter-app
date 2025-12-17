@@ -1,38 +1,61 @@
 # React Counter App
 
-This is a simple *Counter App* built with frontend framework React.
-The app demonstrates the basics of React including **components, props, state management, and event handling**.
+A simple and interactive **Counter application** built with **React**, designed to demonstrate core React concepts such as **components**, **state management**, **props**, **hooks** and **event handling**.
 
-Features:
+This project focuses on clean UI, accessibility, and responsive design while showcasing fundamental frontend development practices.
+
+## Features
 
 - Increment and decrement the counter value
-- Reset the counter back to `0`
-- Adjustable step value (1–50)
-- Step input validation (cannot go below 1 or above 50)
+
+- Reset the counter back to 0
+
+- Adjustable step value (range: 1–50)
+
+- Step input validation (prevents values outside allowed range)
+
 - Keyboard support:
+
   - ⬆️ Increase counter
+
   - ⬇️ Decrease counter
+
   - **R** Reset counter
-- Responsive design with CSS Grid and Flexbox
-- Accessibility features (`aria-label`, `aria-live`)
+
+- Responsive layout using CSS Grid and Flexbox
+
+- Accessibility support:
+
+  - aria-label
+
+  - aria-live
+
 - Clean UI with hover effects and fade-in animation
 
-Technologies used:
+## Tech Stack:
 
-- **React** (with Hooks)
-- **JavaScript (ES6+)**
-- **CSS (Flexbox & Grid)**
+- **React (Hooks)** – UI library
 
-Project structure:
+- **JavaScript (ES6+)** – Application logic
 
+- **CSS** – Styling, Flexbox & Grid layout
+
+
+## Project Structure 
+
+```diff
 src/
-- App.js # Main component
-- App.css # Styles
-- CounterDisplay.js # Counter display component
-- StepInput.js # Step input component
+|-- App.js            # Main application component
+|-- App.css           # Styles
+|-- CounterDisplay.js # Counter display component
+|-- StepInput.js      # Step input component
+```
 
 
-Live Demo : view here --> (https://d00055a.github.io/Counter-app/)
+## Live Demo 
 
+View here --> (https://d00055a.github.io/Counter-app/)
+
+<br><br>
 
 License © 2025 Daniel Dedja. All rights reserved.
