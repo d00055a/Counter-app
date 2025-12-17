@@ -67,7 +67,3 @@ This project was built to practice and demonstrate:
 - Accessibility best practices
 
 - Responsive and clean UI design
-
-<br><br>
-
-License © 2025 Daniel Dedja. All rights reserved.
