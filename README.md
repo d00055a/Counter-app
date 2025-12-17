@@ -22,7 +22,7 @@ This project focuses on clean UI, accessibility, and responsive design while sho
 
   - **R** Reset counter
 
-- Responsive layout using CSS Grid and Flexbox
+- Responsive layout using **CSS Grid** and **Flexbox**
 
 - Accessibility support:
 
@@ -55,6 +55,18 @@ src/
 ## Live Demo 
 
 View here --> (https://d00055a.github.io/Counter-app/)
+
+## Purpose
+
+This project was built to practice and demonstrate:
+
+- Core React concepts (components, props, state, hooks)
+
+- Event handling and keyboard interactions
+
+- Accessibility best practices
+
+- Responsive and clean UI design
 
 <br><br>
 
