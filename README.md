@@ -54,7 +54,7 @@ src/
 
 ## Live Demo 
 
-View here --> (https://d00055a.github.io/Counter-app/)
+View here --> (https://d00055a.github.io/React_counter_app/)
 
 ## Purpose
 
