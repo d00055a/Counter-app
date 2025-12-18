@@ -1,6 +1,6 @@
 {
   "name": "counter-app",
-  "homepage": "https://d00055a.github.io/React_counter_app",
+  "homepage": "https://d00055a.github.io/react-counter-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
