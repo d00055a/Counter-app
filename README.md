@@ -45,6 +45,8 @@ This project focuses on clean UI, accessibility, and responsive design while sho
 
 ```diff
 src/
+|-- index.js          # Entry point, renders <App /> into root
+|-- index.css         # Global styles
 |-- App.js            # Main application component
 |-- App.css           # Styles
 |-- CounterDisplay.js # Counter display component
